@@ -17,3 +17,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+title: Mi Blog con Jekyll
+description: Un blog sobre frutas y sus autores.
